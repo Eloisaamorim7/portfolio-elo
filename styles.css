@@ -9,7 +9,7 @@
   --normal-font-size: 1rem;
   --small-font-size: 0.75rem;
   --bg-color: #000;
-  --second-bg-color: #808080;
+  --second-bg-color: #f5b24dcb;
   --text-color:#fbfbfe;
   --second-text-color: #000;
   --main-color: #001aff;
@@ -80,7 +80,7 @@ textarea{
 }
 
 .btn:hover{
-  background-color: #001aff;
+  background-color: #115806c0;
 }
 
 .social-media{
