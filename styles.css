@@ -9,7 +9,7 @@
   --normal-font-size: 1rem;
   --small-font-size: 0.75rem;
   --bg-color: #000;
-  --second-bg-color: #f5b24d5f;
+  --second-bg-color: #5734006c;
   --text-color:#fbfbfe;
   --second-text-color: #000;
   --main-color:hsl(150, 97%, 15%);
@@ -374,7 +374,7 @@ footer p{
   font-size: 24px;
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: #001aff;
+  color: hsl(150, 97%, 15%);
   font-weight: bolder;
 }
 
